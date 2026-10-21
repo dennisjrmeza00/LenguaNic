@@ -1,0 +1,17 @@
+{
+  "name": "Lengua Nic",
+  "short_name": "Lengua Nic",
+  "description": "Aplicación educativa para aprender español con recursos, lecciones y actividades.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
